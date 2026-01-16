@@ -1,0 +1,5 @@
+{
+  "name": "SmartQuote - Insurance Email Builder",
+  "description": "A React application to generate personalized insurance quote emails with AI-enhanced messaging for agents.",
+  "requestFramePermissions": []
+}
